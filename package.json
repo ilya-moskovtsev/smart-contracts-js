@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ilya-moskovtsev/smart-contracts-js/issues"
   },
-  "homepage": "https://github.com/ilya-moskovtsev/smart-contracts-js#readme"
+  "homepage": "https://github.com/ilya-moskovtsev/smart-contracts-js#readme",
+  "dependencies": {
+    "solc": "^0.4.17"
+  }
 }
