@@ -1,0 +1,27 @@
+{
+  "name": "smart-contracts",
+  "version": "1.0.0",
+  "description": "A boilerplate project to write, test and deploy Solidity smart contracts in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilya-moskovtsev/smart-contracts-js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilya-moskovtsev/smart-contracts-js/issues"
+  },
+  "homepage": "https://github.com/ilya-moskovtsev/smart-contracts-js#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.1.1",
+    "solc": "^0.4.17",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.3.5"
+  }
+}
